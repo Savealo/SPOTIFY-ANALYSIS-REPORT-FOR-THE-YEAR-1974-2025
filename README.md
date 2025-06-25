@@ -141,35 +141,49 @@ Album Fragmentation
 Despite artist loyalty, album engagement is dispersed (top album only 26.7% share). This reflects playlist culture's dominance over traditional album experiences, indicating a shift from artist-intended song sequences to user-curated experiences.
 DATA VISUALIZATIONS & CHARTS
 
+
 TOP 5 ARTIST BY STREAMING TIME
+
 ![image](https://github.com/user-attachments/assets/3e30b27b-0e4b-45aa-b8a8-4d4966b6cbcb)
+
 
 This chart reveals extreme artist loyalty with The Weeknd and Taylor Swift dominating 195 of the total ~354 streaming hours (55%), while the remaining three artists combined account for only 159 hours, indicating a highly concentrated listening pattern focused on just two primary musical relationships
 
 
 REGIONAL REVENUE CONTRIBUTION
+
+
 ![image](https://github.com/user-attachments/assets/52828a37-5dff-483d-8aa5-783c1e341f3f)
+
 The xx dominates with 3 albums while six other artists (5 Seconds of Summer, Charly Black, Grauung, CRUPO, Jon Lajoie, and Tate McRae) each contribute only 1 album, showing a clear preference for The xx's catalog depth over broader artist album collection.
 
 ALBUM RELEASE TREND
+
 ![image](https://github.com/user-attachments/assets/79bd81f4-f3a7-4bab-b6e5-4bd2ab45623e)
+
 The chart shows a dramatic peak of nearly 200 album releases around 2020-2022 followed by a sharp decline to near-zero by 2025, likely reflecting the pandemic-era music production surge and subsequent market correction or changes in release patterns. 
 
 TOP 3 ALBUMS BY POPULARITY
+
 ![image](https://github.com/user-attachments/assets/c50f4496-7af7-40ba-bbc1-20f71a603687)
+
 The top 3 albums show relatively balanced popularity with the leading album at 500 plays (26.7%), followed by two albums at 491 (26.21%) and 382 (47% combined), indicating fairly distributed album engagement rather than one dominant favorite.
 TOP 5 TRACKS BY LISTENING TIME
+
 ![image](https://github.com/user-attachments/assets/15af707d-75f2-42f5-80d5-148a617d61a8)
+
 
 The top 5 tracks show extremely high replay counts with "Make You Mine" leading at 13,450 plays, followed closely by "After Hours" at 12,030 plays, while the remaining three tracks ("Let Me Love You" at 9,940, "Lost Boy" at 9,500, and "Angel With a Shotgun" at 9,260) cluster around 9,000+ plays, collectively representing 68.8% of total listening time and indicating obsessive engagement with a very small set of emotionally significant songs that serve as repeated comfort or functional listening anchors
 
 TOP FIVE PRODUCTS MODELS BY UNITS SOLD
 
 ![image](https://github.com/user-attachments/assets/cc7cb2f9-9ed3-4c29-bc8b-2f91d292d172)
+
 The listening quality analysis reveals a 65/35 split with 649 hours of "Good Listening Time" versus 351 hours of "Poor Listening Time," indicating highly intentional and context-aware music consumption where the majority of listening occurs during focused, attentive moments rather than passive background streaming, suggesting this user strategically curates their musical experiences for maximum engagement and emotional impact.
 
 FINAL DASHBOARD
 ![image](https://github.com/user-attachments/assets/dd339b94-d2a3-4883-88bd-3aca8fd18765)
+
 The final dashboard highlights the combined correlations and relationship between the individual charts with the help of slicers. 
 
 OBSERVATIONS AND ACTIONABLE RECOMENDATIONS
