@@ -168,6 +168,7 @@ TOP 3 ALBUMS BY POPULARITY
 ![image](https://github.com/user-attachments/assets/c50f4496-7af7-40ba-bbc1-20f71a603687)
 
 The top 3 albums show relatively balanced popularity with the leading album at 500 plays (26.7%), followed by two albums at 491 (26.21%) and 382 (47% combined), indicating fairly distributed album engagement rather than one dominant favorite.
+
 TOP 5 TRACKS BY LISTENING TIME
 
 ![image](https://github.com/user-attachments/assets/15af707d-75f2-42f5-80d5-148a617d61a8)
@@ -187,12 +188,18 @@ FINAL DASHBOARD
 The final dashboard highlights the combined correlations and relationship between the individual charts with the help of slicers. 
 
 OBSERVATIONS AND ACTIONABLE RECOMENDATIONS
+
 Key Observations
+
 Extreme Listening Concentration: You've developed an obsessive relationship with specific content - individual tracks reaching 13,450+ plays and two artists (The Weeknd, Taylor Swift) consuming 55% of your total 3,320 minutes, indicating music serves as emotional regulation rather than entertainment.
 Quality-First Approach: Your 65/35 "good vs poor" listening split demonstrates sophisticated curation habits where you actively optimize for engagement quality over passive consumption.
 Discovery vs. Depth Paradox: Despite accessing 526 artists across 819 albums, your actual consumption heavily clusters around a tiny fraction, suggesting broad exploration but narrow emotional attachment.
 Functional Music Usage: The extreme replay patterns indicate specific songs serve utilitarian purposes (productivity, mood management, comfort) rather than casual listening.
+
+
 Immediate Actionable Recommendations
+
+
 Personal Optimization (Next 30 Days)
 Implement 80/20 Rule: Reserve 20% of weekly listening for artists outside your top 10 to prevent musical stagnation
 Create Context Playlists: Build separate playlists for "Focus Work," "Background," and "Active Listening" based on your quality patterns
